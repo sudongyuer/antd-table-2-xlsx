@@ -1,7 +1,7 @@
 {
   "name": "antd-table-2-xlsx",
   "type": "module",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "packageManager": "pnpm@7.0.0",
   "description": "",
   "keywords": [],
@@ -43,7 +43,7 @@
     "dev": "unbuild --stub",
     "lint": "eslint .",
     "prepublishOnly": "nr build",
-    "release": "bumpp --commit --push --tag && npm publish",
+    "release": "bumpp --commit --push --tag && npm publish --access public",
     "start": "esno src/index.ts",
     "test": "vitest",
     "typecheck": "tsc --noEmit"
