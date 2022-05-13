@@ -1,5 +1,5 @@
 {
-  "name": "antdTable2xlsx",
+  "name": "antd-table-2xlsx",
   "type": "module",
   "version": "0.0.11",
   "packageManager": "pnpm@7.0.0",
