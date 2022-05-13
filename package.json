@@ -1,7 +1,7 @@
 {
   "name": "pkg-name",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@7.0.0",
   "description": "",
   "keywords": [],
@@ -48,6 +48,10 @@
     "test": "vitest",
     "typecheck": "tsc --noEmit"
   },
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "file-saver": "^2.0.5"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^0.23.0",
     "@antfu/ni": "^0.16.2",
@@ -64,9 +68,5 @@
     "unbuild": "^0.7.4",
     "vite": "^2.9.9",
     "vitest": "^0.12.4"
-  },
-  "dependencies": {
-    "exceljs": "^4.3.0",
-    "file-saver": "^2.0.5"
   }
 }
