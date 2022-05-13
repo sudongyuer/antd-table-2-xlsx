@@ -1,7 +1,7 @@
 {
   "name": "antd-table-2xlsx",
   "type": "module",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "packageManager": "pnpm@7.0.0",
   "description": "",
   "keywords": [],
@@ -54,9 +54,7 @@
   },
   "dependencies": {
     "exceljs": "^4.3.0",
-    "file-saver": "^2.0.5",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "file-saver": "^2.0.5"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.23.0",
