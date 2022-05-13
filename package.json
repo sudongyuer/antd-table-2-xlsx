@@ -48,10 +48,6 @@
     "test": "vitest",
     "typecheck": "tsc --noEmit"
   },
-  "peerDependencies": {
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
-  },
   "dependencies": {
     "exceljs": "^4.3.0",
     "file-saver": "^2.0.5"
