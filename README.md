@@ -12,4 +12,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [Anthony Fu](https://github.com/sudongyuer)
+[MIT](./LICENSE) License © 2022 [sudongyuer](https://github.com/sudongyuer)
