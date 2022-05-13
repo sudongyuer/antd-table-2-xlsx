@@ -1,8 +1,7 @@
-import type { ColumnsType } from 'antd/lib/table/interface'
 import * as ExcelJs from 'exceljs'
 import { generateHeaders, saveWorkbook } from './utils'
 function useExcel() {
-  function antdTable2xlsx(columns: ColumnsType, data: object[], fileName: string) {
+  function antdTable2xlsx(columns: any[], data: object[], fileName: string) {
     try {
       // 创建工作簿
       const workbook = new ExcelJs.Workbook()
