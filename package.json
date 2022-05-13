@@ -1,7 +1,7 @@
 {
   "name": "@sudongyuer/antd-table-2-xlsx",
   "type": "module",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "packageManager": "pnpm@7.0.0",
   "description": "",
   "keywords": [],
