@@ -1,6 +1,7 @@
-# antdTable2xlsx
+# antd-table-2-xlsx
 
-[![NPM version](https://img.shields.io/npm/v/antdTable2xlsx?color=a1b858&label=)](https://www.npmjs.com/package/antdTable2xlsx)
+
+[![NPM version](https://img.shields.io/npm/v/antd-table-2-xlsx?color=a1b858&label=)](https://www.npmjs.com/package/@sudongyuer/antd-table-2-xlsx)
 
 ## Sponsors
 
